@@ -1,0 +1,135 @@
+body {
+	background-image: url(https://i.imgur.com/NvzlJSV.jpg);
+	background-repeat: no-repeat;
+
+    
+}
+
+#pet-image {
+
+
+	
+
+}
+
+img { 
+	/*background: linear-gradient(rgba(0,0,0,0.6), rgba(0,0,0,8)), url("https://media.giphy.com/media/j41gLB8pjun4c/giphy.gif");
+  background-size: transparent;*/
+}
+
+
+
+
+}
+.container {
+	display: flex;
+	flex-direction: column;
+
+}
+
+.row {
+	display: flex;
+	justify-content: center;
+	padding-top: 40px;
+
+}
+
+.food {
+padding: 10px 15px 11px;
+font-size: 18px;
+background-color: #57d6c7;
+font-weight: bold;
+color: #ffffff;
+
+}
+
+.lights {
+padding: 10px 15px 11px;
+font-size: 18px;
+background-color: #57d6c7;
+font-weight: bold;
+color: #ffffff;
+
+}
+
+.play {
+padding: 10px 15px 11px;
+font-size: 18px;
+background-color: #57d6c7;
+font-weight: bold;
+color: #ffffff;
+
+}
+
+/*#namer {
+	padding-top: 20px;*/
+}
+
+.btn {
+  background: #3498db;
+  border-radius: 28px;
+  font-family: Arial;
+  color: #ffffff;
+  font-size: 20px;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+}
+
+.btn:hover {
+  background: #3cb0fd;
+  text-decoration: none;
+}
+
+.hunger {
+	padding-top: 20px;
+	text-shadow: 2px 4px 3px rgba(0,0,0,0.3);
+	font-family: 'Roboto Condensed', sans-serif;
+	
+
+
+}
+ 
+
+
+.sleepiness {
+	padding-top: 20px;
+	text-shadow: 2px 4px 3px rgba(0,0,0,0.3);
+	font-family: 'Roboto Condensed', sans-serif;
+	
+}
+
+.boredom {
+	padding-top: 20px;
+	text-shadow: 2px 4px 3px rgba(0,0,0,0.3);
+	font-family: 'Roboto Condensed', sans-serif;
+
+}
+
+.age {
+	padding-top: 20px;
+	text-shadow: 2px 4px 3px rgba(0,0,0,0.3);
+	font-family: 'Roboto Condensed', sans-serif;
+	
+}
+
+.interact1 {
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
